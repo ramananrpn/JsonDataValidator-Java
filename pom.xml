@@ -36,6 +36,11 @@
             <artifactId>json-schema-validator</artifactId>
             <version>1.0.42</version>
         </dependency>
+        <dependency>
+            <groupId>com.github.erosb</groupId>
+            <artifactId>everit-json-schema-jdk6</artifactId>
+            <version>1.9.2</version>
+        </dependency>
     </dependencies>
 
 

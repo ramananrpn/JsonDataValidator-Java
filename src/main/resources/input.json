@@ -1,6 +1,6 @@
 {
-  "Username" : "Robin",
-  "Age" : "20",
-  "Address" : "Gandhipuram",
-  "Education" : "Engineering"
+  "username" : "RobinRam",
+  "age" : 20,
+  "address" : "Gandhipuram",
+  "education" : "Engineering"
 }
