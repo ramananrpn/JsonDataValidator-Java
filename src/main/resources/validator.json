@@ -1,0 +1,25 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "User",
+  "type": "object",
+  "properties": {
+    "username": {
+      "type": "string",
+      "maxLength": 25
+    },
+    "age": {
+      "type": "integer",
+      "minimum": 18,
+      "maximum": 100
+    },
+    "address": {
+      "type": "string",
+      "maxLength": 100
+    },
+    "education": {
+      "type": "string",
+      "maxLength": 25
+    }
+  },
+  "required": ["username", "address", "age"]
+}
